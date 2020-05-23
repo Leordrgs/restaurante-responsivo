@@ -1,0 +1,28 @@
+body {
+    font-size: 16px;
+    color: #ffff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: #f6b319;
+    border: 0;
+}
+.navbar-brand h1{
+    font-family: 'lora', serif;
+    color: #000;
+    font-size: 1.5rem;
+    float: left;
+    margin: 0;
+}
+
+#s1{
+    background-color: #f6b319;
+}
+
+.menu{
+    text-align: center;
+    color: #000;
+    font-family: 'lora', serif;
+}
