@@ -1,15 +1,14 @@
 body {
     font-size: 16px;
-    color: #ffff;
-    background-color: #61122f;
+    color: #f7f7f7;
     font-family: 'Oxygen', sans-serif;
 }
 
 #header-nav {
-    background-color: #f6b319;
+    background-color: #cceabb;
     border: 0;
 }
-.navbar-brand h1{
+.navbar-brand {
     font-family: 'lora', serif;
     color: #000;
     font-size: 1.5rem;
@@ -17,12 +16,36 @@ body {
     margin: 0;
 }
 
-#s1{
-    background-color: #f6b319;
+.nav-link{
+    color: #000;
+    text-align: center;
 }
 
 .menu{
     text-align: center;
+    background-color: #3f3f44;
     color: #000;
     font-family: 'lora', serif;
+}
+
+#food h3{
+text-align: center;
+color: #000;
+}
+
+#food p{
+    color: #000;
+    margin-top: 15px;
+}
+
+#s1{
+    background-color: #cceabb;
+}
+
+#s2{
+    background-color: #cceabb;
+}
+
+#s3{
+    background-color: #cceabb;
 }
